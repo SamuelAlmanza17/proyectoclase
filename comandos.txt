@@ -1,0 +1,2 @@
+node server.js  // correr servidor
+nodemon server.js  // correr servidor sin actualizar
